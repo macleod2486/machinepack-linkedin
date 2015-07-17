@@ -66,8 +66,8 @@ module.exports = {
 	try
 	{
 		return exits.success(util.format(
-			   'https://www.linkedin.com/uas/oauth2/authorization?response_type=code?client_id=%s&redirect_uri=%s&state=%s&scope=%s',
-			   inputs.client_id, inputs.redirecturl, inputs.state, inputs.scope.join(',')
+			   'https://www.linkedin.com/uas/oauth2/authorization?response_type=code&client_id=%s&redirect_uri=%s&state=%s&scope=%s',
+			   inputs.client_id, inputs.redirecturl, state, inputs.scope.join(',')
 			  ));
 	}
 
