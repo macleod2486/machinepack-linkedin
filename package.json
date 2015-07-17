@@ -13,7 +13,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "machine": "^9.0.0"
+    "machine": "^9.0.0",
+    "util": "^0.10.3"
   },
   "devDependencies": {
     "test-machinepack-mocha": "^2.0.0"
@@ -23,6 +24,11 @@
     "machineDir": "machines/",
     "machines": [
       "get-login-url"
-    ]
+    ],
+    "testsUrl": "https://travis-ci.org/git@macleod2486Bit:macleod2486/machinepack-linkedin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@macleod2486Bit:macleod2486/machinepack-linkedin"
   }
 }
