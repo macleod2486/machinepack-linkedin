@@ -27,10 +27,10 @@
       "get-login-url",
       "get-authentication-token"
     ],
-    "testsUrl": "https://travis-ci.org/git@macleod2486Bit:macleod2486/machinepack-linkedin"
+    "testsUrl": "https://travis-ci.org/git@github.com:macleod2486/machinepack-linkedin"
   },
   "repository": {
     "type": "git",
-    "url": "git@macleod2486Bit:macleod2486/machinepack-linkedin"
+    "url": "git@github.com:macleod2486/machinepack-linkedin"
   }
 }
