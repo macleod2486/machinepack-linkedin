@@ -4,7 +4,7 @@ module.exports = {
   friendlyName: 'Get the login url for LinkedIn',
 
 
-  description: '',
+  description: 'Creates the login url used to gain acccess to their LinkedIn account.',
 
 
   cacheable: false,
