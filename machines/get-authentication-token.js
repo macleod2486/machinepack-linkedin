@@ -4,7 +4,7 @@ module.exports = {
   friendlyName: 'get authentication token',
 
 
-  description: 'Obtains the authentication token after you complete the url login phase.',
+  description: 'Obtains the authentication token after you complete the url login phase.  Make sure to do this within 20 seconds or else the code expires.',
 
 
   cacheable: false,
