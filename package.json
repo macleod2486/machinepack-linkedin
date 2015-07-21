@@ -25,7 +25,8 @@
     "machineDir": "machines/",
     "machines": [
       "get-login-url",
-      "get-authentication-token"
+      "get-authentication-token",
+      "get-profile"
     ],
     "testsUrl": "https://travis-ci.org/git@github.com:macleod2486/machinepack-linkedin"
   },
